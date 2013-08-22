@@ -10,7 +10,7 @@ so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Any use in a composition, or artwork contians a credit to the author of the 
+Any use in a composition or artwork contains a credit to the author of the 
 software: Mitch Greer.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
